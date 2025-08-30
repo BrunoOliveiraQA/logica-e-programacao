@@ -19,5 +19,7 @@ function calcularMediaDeDoisNumeros(n1, n2){
 
 
 module.exports = {
-    somarDoisNumeros
+    somarDoisNumeros,
+    calcularMediaDeDoisNumeros
+
 }
